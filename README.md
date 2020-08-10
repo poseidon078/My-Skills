@@ -10,6 +10,7 @@
 
 # Courses
 1. ESC201 (started Sequential Circuits)
+2. Algorithmic Toolbox- Coursera (currently doing Week 3)
 
 # Projects
 1. [IITK Webmail CaptchaHacker](https://github.com/poseidon078/CaptchaHacker)
